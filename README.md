@@ -13,8 +13,13 @@ Instructions
 Questions
 ---------
 
-1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) **Answer:**
-1. What are the stages in their proposed career path for testers? **Answer:**
+1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) 
+
+
+**Answer:**  Many people view testing as a stepping stone in their career, later going on to dev or architect roles. This can also mean that great testers will only be in the role for a short time before doing something else.
+1. What are the stages in their proposed career path for testers? 
+
+**Answer:** The states are apprenticeship, mastery, specialization, and leadership. Apprencticeship starts with the software testing position. While in this position testers attend seminars and courses designed to educate them about testing. After this, they become software test engineers. This role involves participating in test planning, management, and execution, all while continuing their development with more courses. The specialization step involves getting a specialization in at least one of many different areas. After specialization comes the role of lead software test specialist. They can either specialize heavily in one area, or have a broader specialization in many different areas. There is also a heavy emphasis on leadership and management skills. The final state of development is enterprise software tester. This stage involves teaching to others, interacting with top management as well as having large depth and breadth of specialization of knowledge.
 
 Prerequisites
 -------------
